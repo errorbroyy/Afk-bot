@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "Cubasmps1.aternos.me",
+    "port": 13866,
     "version": "1.20.1",
     "try-creative": false
   },
